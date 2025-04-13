@@ -1,2 +1,1 @@
-# c-project-hospital-management-system-
-A simple yet functional Hospital Management System built using the C programming language. This project is designed to handle core administrative tasks such as managing patient records, doctor information, appointments, and billing—through a basic text-based interface.
+<!-- Badges --> <p align="center"> <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="C Badge"/> <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Project Status"/> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/> </p>
