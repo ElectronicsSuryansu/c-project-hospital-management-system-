@@ -1,10 +1,5 @@
-<!-- Banner -->
- _   _           _        _                         _             
-| | | |         | |      | |                       | |            
-| |_| | __ _ ___| | _____| |__   ___   __ _ _ __ __| | ___  _ __  
-|  _  |/ _` / __| |/ / _ \ '_ \ / _ \ / _` | '__/ _` |/ _ \| '_ \ 
-| | | | (_| \__ \   <  __/ |_) | (_) | (_| | | | (_| | (_) | | | |
-\_| |_/\__,_|___/_|\_\___|_.__/ \___/ \__,_|_|  \__,_|\___/|_| |_|
+<!-- Banner -->            
+<!-- Badges --> <p align="center"> <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="C Badge"/> <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" alt="Project Status"/> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/> </p>
 
                 Hospital Management System in C
 About the Project
